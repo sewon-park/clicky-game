@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ancient One",
+    "image": "./images/ancientone.JPG",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "antman",
+    "image": "./images/antman.JPG",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Black Panther",
+    "image": "./images/blackpanther.JPG",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Captain America",
+    "image": "./images/captainamerica.JPG",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Black Widow",
+    "image": "./images/blackwidow.JPG",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Gamora",
+    "image": "./images/gamora.JPG",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Hawk Eye",
+    "image": "./images/hawkeye.JPG",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Thor",
+    "image": "./images/thor.JPG",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Iron Man",
+    "image": "./images/ironMan.JPG",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "nebula",
+    "image": "./images/nebula.JPG",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Thanos",
+    "image": "./images/thanos.JPG",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Wong",
+    "image": "./images/wong.JPG",
+    "clicked": false
+  }
+]
