@@ -1,0 +1,18 @@
+.intro {
+  background-image: url('../../images/endgame.jpg') !important;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  opacity: 0.85;
+  color:white;
+
+  
+  height: 370px;
+
+  font-size: 50px;
+}
+
+@media (min-width: 576px) {
+  .banner {
+    font-size: calc(10px + 14 * (100vw - 320px) / 800);
+  }
+}
